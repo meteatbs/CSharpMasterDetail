@@ -1,0 +1,9 @@
+C:\Users\metea\source\repos\MasterDetailsCRUDAPP\MasterDetailsCRUDAPP\bin\Debug\MasterDetailsCRUDAPP.exe.config
+C:\Users\metea\source\repos\MasterDetailsCRUDAPP\MasterDetailsCRUDAPP\bin\Debug\MasterDetailsCRUDAPP.exe
+C:\Users\metea\source\repos\MasterDetailsCRUDAPP\MasterDetailsCRUDAPP\bin\Debug\MasterDetailsCRUDAPP.pdb
+C:\Users\metea\source\repos\MasterDetailsCRUDAPP\MasterDetailsCRUDAPP\obj\Debug\MasterDetailsCRUDAPP.csprojAssemblyReference.cache
+C:\Users\metea\source\repos\MasterDetailsCRUDAPP\MasterDetailsCRUDAPP\obj\Debug\MasterDetailsCRUDAPP.Form1.resources
+C:\Users\metea\source\repos\MasterDetailsCRUDAPP\MasterDetailsCRUDAPP\obj\Debug\MasterDetailsCRUDAPP.Properties.Resources.resources
+C:\Users\metea\source\repos\MasterDetailsCRUDAPP\MasterDetailsCRUDAPP\obj\Debug\MasterDetailsCRUDAPP.csproj.GenerateResource.cache
+C:\Users\metea\source\repos\MasterDetailsCRUDAPP\MasterDetailsCRUDAPP\obj\Debug\MasterDetailsCRUDAPP.exe
+C:\Users\metea\source\repos\MasterDetailsCRUDAPP\MasterDetailsCRUDAPP\obj\Debug\MasterDetailsCRUDAPP.pdb
